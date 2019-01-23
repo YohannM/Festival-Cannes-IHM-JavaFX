@@ -1,0 +1,16 @@
+.table-row-cell {
+    -fx-cell-size: 125px;
+    -fx-text-alignment: center;
+}
+
+#table .table-column {
+  -fx-alignment: CENTER;
+}
+
+.combo-box {
+  -fx-translate-y: -3
+}
+
+.button {
+  -fx-translate-y: -3
+}
